@@ -1,1 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #f9faf8;
+}
+
+.header {
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 20px 150px;
+}
+
+.top-bar {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.right-top-bar {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
