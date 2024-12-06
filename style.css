@@ -96,3 +96,17 @@ a {
     margin-top: 20px;
     justify-self: end;
 }
+
+.signup-section {
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 50px 150px;
+    margin: 100px 0 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.signup-section button {
+    border-color: white;
+}
