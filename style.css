@@ -84,3 +84,15 @@ a {
     width: 150px;
     border-radius: 0.2cm;
 }
+
+.quote-section {
+    padding: 110px 200px;
+    background-color: #e5e7eb;
+}
+
+.autor {
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 20px;
+    justify-self: end;
+}
