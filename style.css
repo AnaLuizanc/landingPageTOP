@@ -54,11 +54,10 @@ a {
     cursor: pointer;
 }
 
-.placeholder-img {
-    background-color: #6D747D;
+.right img {
+    width: 100%;
     height: 100%;
-    align-content: center;
-    text-align: center;
+    object-fit: cover;
 }
 
 .information-section {
@@ -83,6 +82,7 @@ a {
     height: 150px;
     width: 150px;
     border-radius: 0.2cm;
+    object-fit: cover;
 }
 
 .quote-section {
